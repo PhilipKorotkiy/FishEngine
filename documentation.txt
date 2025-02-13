@@ -1,0 +1,11 @@
+-   FISH ENGINE 2.0   -
+Philip Korotkiy
+
+
+// Introduction
+Welcome to fishengine! A simple yet fast game engine entirely written on javascript!
+
+// Config - configure.js
+
+RENDERTHREADS - Int
+This tells the program how many threads to open for rendering.
